@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadCastReciever_YOU1</string>
+    <string name="btn_text_send">Send</string>
+</resources>
